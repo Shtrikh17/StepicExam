@@ -9,6 +9,8 @@
 #include "commonOperations.h"
 #include "server.h"
 
+extern int opterr;
+
 int parse_argv(int argc, char** argv, struct parameters* params){
 
     int opt = 0;
