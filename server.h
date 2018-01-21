@@ -9,6 +9,7 @@
 #include <arpa/inet.h>
 #include <sys/socket.h>
 #include <event2/listener.h>
+#include <errno.h>
 #include <unistd.h>
 #include <pthread.h>
 
