@@ -28,7 +28,11 @@ void handler_cb(evutil_socket_t fd, short ev_flag, void* arg){
         char* response;
         handle_HTTP_request(request, &response, hArg->dir);
         int l = strlen(response);
+<<<<<<< HEAD
         
+=======
+        printLog(response);
+>>>>>>> 5a3faaeea0706c14f084f6cc18b04e028b96f0ad
         send(fd, response, l+1, MSG_NOSIGNAL);
         /*free(response);
         event_del(hArg->ev);
