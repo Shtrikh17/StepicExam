@@ -10,6 +10,7 @@
 #include "server.h"
 
 extern int opterr;
+extern char* optarg;
 
 int parse_argv(int argc, char** argv, struct parameters* params){
 
