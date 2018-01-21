@@ -758,3 +758,451 @@ ip: 127.0.0.1
 port: 38549
 --------
 Incoming request from [127.0.0.1:38549]
+==================================
+Successful parsing
+ip: 127.0.0.1
+port: 8888
+dir: /home/shtrikh17
+
+Bind failure
+
+==================================
+Successful parsing
+ip: 127.0.0.1
+port: 8889
+dir: /home/shtrikh17
+
+Starting event_base
+
+--------
+Accepting incoming connection from:
+ip: 127.0.0.1
+port: 35981
+--------
+Incoming request from [127.0.0.1:35981]
+==================================
+Successful parsing
+ip: 127.0.0.1
+port: 8889
+dir: /home/shtrikh17
+
+Starting event_base
+
+--------
+Accepting incoming connection from:
+ip: 127.0.0.1
+port: 36493
+--------
+Incoming request from [127.0.0.1:36493]
+Incoming request from [127.0.0.1:36493]
+--------
+Accepting incoming connection from:
+ip: 127.0.0.1
+port: 37005
+--------
+Incoming request from [127.0.0.1:37005]
+Incoming request from [127.0.0.1:37005]
+==================================
+Successful parsing
+ip: 127.0.0.1
+port: 8889
+dir: /home/shtrikh17
+
+Starting event_base
+
+--------
+Accepting incoming connection from:
+ip: 127.0.0.1
+port: 37517
+--------
+Incoming request from [127.0.0.1:37517]
+Incoming request from [127.0.0.1:37517]
+--------
+Accepting incoming connection from:
+ip: 127.0.0.1
+port: 38541
+--------
+Incoming request from [127.0.0.1:38541]
+Incoming request from [127.0.0.1:38541]
+--------
+Accepting incoming connection from:
+ip: 127.0.0.1
+port: 39053
+--------
+Incoming request from [127.0.0.1:39053]
+==================================
+Successful parsing
+ip: 127.0.0.1
+port: 8889
+dir: /home/shtrikh17
+
+Bind failure
+
+==================================
+Successful parsing
+ip: 127.0.0.1
+port: 8888
+dir: /home/shtrikh17
+
+Starting event_base
+
+--------
+Accepting incoming connection from:
+ip: 127.0.0.1
+port: 44693
+--------
+Incoming request from [127.0.0.1:44693]
+==================================
+Successful parsing
+ip: 127.0.0.1
+port: 8888
+dir: /home/shtrikh17
+
+Bind failure
+
+==================================
+Successful parsing
+ip: 127.0.0.1
+port: 8887
+dir: /home/shtrikh17
+
+Starting event_base
+
+--------
+Accepting incoming connection from:
+ip: 127.0.0.1
+port: 62119
+--------
+Incoming request from [127.0.0.1:62119]
+Incoming request from [127.0.0.1:62119]
+==================================
+Successful parsing
+ip: 127.0.0.1
+port: 8887
+dir: /home/shtrikh17
+
+Starting event_base
+
+--------
+Accepting incoming connection from:
+ip: 127.0.0.1
+port: 63655
+--------
+Incoming request from [127.0.0.1:63655]
+==================================
+Successful parsing
+ip: 127.0.0.1
+port: 8887
+dir: /home/shtrikh17
+
+Starting event_base
+
+--------
+Accepting incoming connection from:
+ip: 127.0.0.1
+port: 64167
+--------
+Incoming request from [127.0.0.1:64167]
+Incoming request from [127.0.0.1:64167]
+==================================
+Successful parsing
+ip: 127.0.0.1
+port: 8887
+dir: /home/shtrikh17
+
+Starting event_base
+
+--------
+Accepting incoming connection from:
+ip: 127.0.0.1
+port: 64679
+--------
+Incoming request from [127.0.0.1:64679]
+Incoming request from [127.0.0.1:64679]
+                                                                                                                                                                                                                                              ==================================
+==================================
+Successful parsing
+ip: 127.0.0.1
+port: 8888
+dir: /home/shtrikh17
+
+New pid: 2153
+
+Starting event_base
+
+==================================
+Successful parsing
+ip: 127.0.0.1
+port: 8888
+dir: /home/shtrikh17
+
+Bind failure
+
+New pid: 2188
+
+==================================
+Successful parsing
+ip: 127.0.0.1
+port: 8888
+dir: /home/shtrikh17
+
+Bind failure
+
+==================================
+Successful parsing
+ip: 127.0.0.1
+port: 8888
+dir: /home/shtrikh17
+
+Bind failure
+
+==================================
+Successful parsing
+ip: 127.0.0.1
+port: 8889
+dir: /home/shtrikh17
+
+Starting event_base
+
+==================================
+Successful parsing
+ip: 127.0.0.1
+port: 8889
+dir: /home/shtrikh17
+
+Starting event_base
+
+--------
+Accepting incoming connection from:
+ip: 127.0.0.1
+port: 47789
+--------
+Incoming request from [127.0.0.1:47789]
+--------
+Accepting incoming connection from:
+ip: 127.0.0.1
+port: 48301
+--------
+Incoming request from [127.0.0.1:48301]
+==================================
+Successful parsing
+ip: 127.0.0.1
+port: 8889
+dir: /home/shtrikh17
+
+Bind failure
+
+==================================
+Successful parsing
+ip: 127.0.0.1
+port: 8888
+dir: /home/shtrikh17
+
+Starting event_base
+
+--------
+Accepting incoming connection from:
+ip: 127.0.0.1
+port: 57502
+--------
+Incoming request from [127.0.0.1:57502]
+==================================
+Successful parsing
+ip: 127.0.0.1
+port: 8888
+dir: /home/shtrikh17
+
+Bind failure
+
+==================================
+Successful parsing
+ip: 127.0.0.1
+port: 8887
+dir: /home/shtrikh17
+
+Starting event_base
+
+--------
+Accepting incoming connection from:
+ip: 127.0.0.1
+port: 59113
+--------
+Incoming request from [127.0.0.1:59113]
+Incoming request from [127.0.0.1:59113]
+--------
+Accepting incoming connection from:
+ip: 127.0.0.1
+port: 59625
+--------
+Incoming request from [127.0.0.1:59625]
+Incoming request from [127.0.0.1:59625]
+--------
+Accepting incoming connection from:
+ip: 127.0.0.1
+port: 60137
+--------
+Incoming request from [127.0.0.1:60137]
+==================================
+Successful parsing
+ip: 127.0.0.1
+port: 8888
+dir: /home/shtrikh17
+
+Starting event_base
+
+--------
+Accepting incoming connection from:
+ip: 127.0.0.1
+port: 59550
+--------
+Incoming request from [127.0.0.1:59550]
+Incoming request from [127.0.0.1:59550]
+--------
+Accepting incoming connection from:
+ip: 127.0.0.1
+port: 60062
+--------
+Incoming request from [127.0.0.1:60062]
+Incoming request from [127.0.0.1:60062]
+==================================
+Successful parsing
+ip: 127.0.0.1
+port: 8888
+dir: /home/shtrikh17
+
+Starting event_base
+
+--------
+Accepting incoming connection from:
+ip: 127.0.0.1
+port: 61598
+--------
+Incoming request from [127.0.0.1:61598]
+Incoming request from [127.0.0.1:61598]
+--------
+Accepting incoming connection from:
+ip: 127.0.0.1
+port: 62110
+--------
+Incoming request from [127.0.0.1:62110]
+Incoming request from [127.0.0.1:62110]
+--------
+Accepting incoming connection from:
+ip: 127.0.0.1
+port: 62622
+--------
+Incoming request from [127.0.0.1:62622]
+==================================
+Successful parsing
+ip: 127.0.0.1
+port: 8888
+dir: /home/shtrikh17
+
+Starting event_base
+
+--------
+Accepting incoming connection from:
+ip: 127.0.0.1
+port: 63134
+--------
+Incoming request from [127.0.0.1:63134]
+Incoming request from [127.0.0.1:63134]
+==================================
+Successful parsing
+ip: 127.0.0.1
+port: 8888
+dir: /home/shtrikh17
+
+Starting event_base
+
+--------
+Accepting incoming connection from:
+ip: 127.0.0.1
+port: 63646
+--------
+Incoming request from [127.0.0.1:63646]
+Incoming request from [127.0.0.1:63646]
+--------
+Accepting incoming connection from:
+ip: 127.0.0.1
+port: 64158
+--------
+Incoming request from [127.0.0.1:64158]
+Incoming request from [127.0.0.1:64158]
+--------
+Accepting incoming connection from:
+ip: 127.0.0.1
+port: 64670
+--------
+Incoming request from [127.0.0.1:64670]
+Incoming request from [127.0.0.1:64670]
+--------
+Accepting incoming connection from:
+ip: 127.0.0.1
+port: 65182
+--------
+Incoming request from [127.0.0.1:65182]
+==================================
+Successful parsing
+ip: 127.0.0.1
+port: 8888
+dir: /home/shtrikh17
+
+Bind failure
+
+==================================
+Successful parsing
+ip: 127.0.0.1
+port: 8889
+dir: /home/shtrikh17
+
+Starting event_base
+
+--------
+Accepting incoming connection from:
+ip: 127.0.0.1
+port: 57517
+--------
+Incoming request from [127.0.0.1:57517]
+--------
+Accepting incoming connection from:
+ip: 127.0.0.1
+port: 58029
+--------
+Incoming request from [127.0.0.1:58029]
+==================================
+Successful parsing
+ip: 127.0.0.1
+port: 8889
+dir: /home/shtrikh17
+
+Starting event_base
+
+--------
+Accepting incoming connection from:
+ip: 127.0.0.1
+port: 58541
+--------
+Incoming request from [127.0.0.1:58541]
+Incoming request from [127.0.0.1:58541]
+--------
+Accepting incoming connection from:
+ip: 127.0.0.1
+port: 59053
+--------
+Incoming request from [127.0.0.1:59053]
+Incoming request from [127.0.0.1:59053]
+--------
+Accepting incoming connection from:
+ip: 127.0.0.1
+port: 59565
+--------
+Incoming request from [127.0.0.1:59565]
+Incoming request from [127.0.0.1:59565]
+--------
+Accepting incoming connection from:
+ip: 127.0.0.1
+port: 60077
+--------
+Incoming request from [127.0.0.1:60077]
+Incoming request from [127.0.0.1:60077]

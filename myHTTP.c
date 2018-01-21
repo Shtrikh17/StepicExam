@@ -44,6 +44,10 @@ int handle_HTTP_request(char* req, char** res, char* rootDir){
     response->headers = (HTTP_header*) malloc (50*sizeof(HTTP_header));
     response->nHeadres = 0;
 
+    response->headers[response->nHeadres].key = "Content-Type";
+    response->headers[response->nHeadres].value = "text/html";
+    response->nHeadres++;
+
     if(request->path!=NULL){
         char* fullPath = (char*) malloc (strlen(request->path)+strlen(rootDir)+1);
         strcpy(fullPath, rootDir);
@@ -101,12 +105,16 @@ int handle_HTTP_request(char* req, char** res, char* rootDir){
         cur += strlen(cur);
     }
 
+    sprintf(cur, "\r\n");
+    cur += strlen(cur);
+
     // Вообще говоря, неверно - в файле могут находиться \0, так что копировать нужно все до конца файла побайтово
     if(response->body!=NULL){
-        sprintf(cur, "\r\n");
-        cur += strlen(cur);
         sprintf(cur, "%s", response->body);
         cur += strlen(cur);
+    }
+    else{
+        *cur = '\0';
     }
         return 0;
 }

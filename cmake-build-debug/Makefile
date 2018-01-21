@@ -123,65 +123,113 @@ final/fast:
 	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/build
 .PHONY : final/fast
 
-# target to build an object file
-commonOperations.o:
-	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/commonOperations.o
+commonOperations.o: commonOperations.c.o
+
 .PHONY : commonOperations.o
 
-# target to preprocess a source file
-commonOperations.i:
-	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/commonOperations.i
+# target to build an object file
+commonOperations.c.o:
+	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/commonOperations.c.o
+.PHONY : commonOperations.c.o
+
+commonOperations.i: commonOperations.c.i
+
 .PHONY : commonOperations.i
 
-# target to generate assembly for a file
-commonOperations.s:
-	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/commonOperations.s
+# target to preprocess a source file
+commonOperations.c.i:
+	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/commonOperations.c.i
+.PHONY : commonOperations.c.i
+
+commonOperations.s: commonOperations.c.s
+
 .PHONY : commonOperations.s
 
-# target to build an object file
-main.o:
-	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/main.o
+# target to generate assembly for a file
+commonOperations.c.s:
+	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/commonOperations.c.s
+.PHONY : commonOperations.c.s
+
+main.o: main.c.o
+
 .PHONY : main.o
 
-# target to preprocess a source file
-main.i:
-	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/main.i
+# target to build an object file
+main.c.o:
+	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/main.c.o
+.PHONY : main.c.o
+
+main.i: main.c.i
+
 .PHONY : main.i
 
-# target to generate assembly for a file
-main.s:
-	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/main.s
+# target to preprocess a source file
+main.c.i:
+	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/main.c.i
+.PHONY : main.c.i
+
+main.s: main.c.s
+
 .PHONY : main.s
 
-# target to build an object file
-myHTTP.o:
-	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/myHTTP.o
+# target to generate assembly for a file
+main.c.s:
+	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/main.c.s
+.PHONY : main.c.s
+
+myHTTP.o: myHTTP.c.o
+
 .PHONY : myHTTP.o
 
-# target to preprocess a source file
-myHTTP.i:
-	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/myHTTP.i
+# target to build an object file
+myHTTP.c.o:
+	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/myHTTP.c.o
+.PHONY : myHTTP.c.o
+
+myHTTP.i: myHTTP.c.i
+
 .PHONY : myHTTP.i
 
-# target to generate assembly for a file
-myHTTP.s:
-	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/myHTTP.s
+# target to preprocess a source file
+myHTTP.c.i:
+	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/myHTTP.c.i
+.PHONY : myHTTP.c.i
+
+myHTTP.s: myHTTP.c.s
+
 .PHONY : myHTTP.s
 
-# target to build an object file
-server.o:
-	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/server.o
+# target to generate assembly for a file
+myHTTP.c.s:
+	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/myHTTP.c.s
+.PHONY : myHTTP.c.s
+
+server.o: server.c.o
+
 .PHONY : server.o
 
-# target to preprocess a source file
-server.i:
-	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/server.i
+# target to build an object file
+server.c.o:
+	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/server.c.o
+.PHONY : server.c.o
+
+server.i: server.c.i
+
 .PHONY : server.i
 
-# target to generate assembly for a file
-server.s:
-	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/server.s
+# target to preprocess a source file
+server.c.i:
+	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/server.c.i
+.PHONY : server.c.i
+
+server.s: server.c.s
+
 .PHONY : server.s
+
+# target to generate assembly for a file
+server.c.s:
+	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/server.c.s
+.PHONY : server.c.s
 
 # Help Target
 help:
