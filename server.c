@@ -23,6 +23,7 @@ void handler_cb(evutil_socket_t fd, short ev_flag, void* arg){
     }
     else if(RecvSize!=0){
 
+        printLog(request);
         //send(fd, Buffer, RecvSize, MSG_NOSIGNAL);
         char* response;
         handle_HTTP_request(request, &response, hArg->dir);
