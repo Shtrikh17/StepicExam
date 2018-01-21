@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/SimpleHTTPserver.dir/main.c.o CMakeFiles/SimpleHTTPserver.dir/myHTTP.c.o CMakeFiles/SimpleHTTPserver.dir/commonOperations.c.o CMakeFiles/SimpleHTTPserver.dir/server.c.o  -o SimpleHTTPserver -levent -lpthread 

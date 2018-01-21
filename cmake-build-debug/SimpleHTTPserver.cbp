@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="SimpleHTTPserver"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SimpleHTTPserver">
+				<Option output="/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/SimpleHTTPserver" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 SimpleHTTPserver"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SimpleHTTPserver/fast">
+				<Option output="/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/SimpleHTTPserver" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 SimpleHTTPserver/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/shtrikh17/Data/CppApps/SimpleHTTPserver/commonOperations.c">
+			<Option target="SimpleHTTPserver"/>
+		</Unit>
+		<Unit filename="/home/shtrikh17/Data/CppApps/SimpleHTTPserver/commonOperations.h">
+			<Option target="SimpleHTTPserver"/>
+		</Unit>
+		<Unit filename="/home/shtrikh17/Data/CppApps/SimpleHTTPserver/main.c">
+			<Option target="SimpleHTTPserver"/>
+		</Unit>
+		<Unit filename="/home/shtrikh17/Data/CppApps/SimpleHTTPserver/myHTTP.c">
+			<Option target="SimpleHTTPserver"/>
+		</Unit>
+		<Unit filename="/home/shtrikh17/Data/CppApps/SimpleHTTPserver/myHTTP.h">
+			<Option target="SimpleHTTPserver"/>
+		</Unit>
+		<Unit filename="/home/shtrikh17/Data/CppApps/SimpleHTTPserver/server.c">
+			<Option target="SimpleHTTPserver"/>
+		</Unit>
+		<Unit filename="/home/shtrikh17/Data/CppApps/SimpleHTTPserver/server.h">
+			<Option target="SimpleHTTPserver"/>
+		</Unit>
+		<Unit filename="/home/shtrikh17/Data/CppApps/SimpleHTTPserver/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

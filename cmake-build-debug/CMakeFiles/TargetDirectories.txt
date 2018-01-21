@@ -1,0 +1,3 @@
+/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/CMakeFiles/SimpleHTTPserver.dir
