@@ -67,6 +67,8 @@ int handle_HTTP_request(char* req, char** res, char* rootDir){
                 fseek(f, 0, SEEK_SET);
                 response->body = (char*) malloc (fileSize+1);
 
+
+
                 // Упрощенный подход - лучше не читать файл в память, это слишком замедляет сервер
                 fread(response->body, 1, fileSize, f);
                 response->body[fileSize] = '\0';
@@ -105,16 +107,20 @@ int handle_HTTP_request(char* req, char** res, char* rootDir){
         cur += strlen(cur);
     }
 
-    sprintf(cur, "\r\n");
-    cur += strlen(cur);
+
 
     // Вообще говоря, неверно - в файле могут находиться \0, так что копировать нужно все до конца файла побайтово
     if(response->body!=NULL){
+        sprintf(cur, "\r\n");
+        cur += strlen(cur);
         sprintf(cur, "%s", response->body);
         cur += strlen(cur);
     }
     else{
-        *cur = '\0';
+        sprintf(cur, "Content-Length: 1\r\n\r\n");
+        cur += strlen(cur);
+        sprintf(cur, "a");
+        cur += 1;
     }
         return 0;
 }

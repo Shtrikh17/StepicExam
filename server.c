@@ -23,14 +23,16 @@ void handler_cb(evutil_socket_t fd, short ev_flag, void* arg){
     }
     else if(RecvSize!=0){
 
+        printLog("REQUEST:");
         printLog(request);
         //send(fd, Buffer, RecvSize, MSG_NOSIGNAL);
         char* response;
         handle_HTTP_request(request, &response, hArg->dir);
         int l = strlen(response);
-        
+
+        printLog("RESPONSE:");
         printLog(response);
-        send(fd, response, l+1, MSG_NOSIGNAL);
+        send(fd, response, l, MSG_NOSIGNAL);
         /*free(response);
         event_del(hArg->ev);
         shutdown(fd, SHUT_RDWR);

@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/final.dir/main.c.o"
-  "CMakeFiles/final.dir/myHTTP.c.o"
-  "CMakeFiles/final.dir/commonOperations.c.o"
-  "CMakeFiles/final.dir/server.c.o"
+  "CMakeFiles/final.dir/main.o"
+  "CMakeFiles/final.dir/myHTTP.o"
+  "CMakeFiles/final.dir/commonOperations.o"
+  "CMakeFiles/final.dir/server.o"
   "final.pdb"
   "final"
 )

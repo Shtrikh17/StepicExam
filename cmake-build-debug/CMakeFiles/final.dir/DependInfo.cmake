@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/shtrikh17/Data/CppApps/SimpleHTTPserver/commonOperations.c" "/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/CMakeFiles/final.dir/commonOperations.c.o"
-  "/home/shtrikh17/Data/CppApps/SimpleHTTPserver/main.c" "/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/CMakeFiles/final.dir/main.c.o"
-  "/home/shtrikh17/Data/CppApps/SimpleHTTPserver/myHTTP.c" "/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/CMakeFiles/final.dir/myHTTP.c.o"
-  "/home/shtrikh17/Data/CppApps/SimpleHTTPserver/server.c" "/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/CMakeFiles/final.dir/server.c.o"
+  "/home/shtrikh17/Data/CppApps/SimpleHTTPserver/commonOperations.c" "/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/CMakeFiles/final.dir/commonOperations.o"
+  "/home/shtrikh17/Data/CppApps/SimpleHTTPserver/main.c" "/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/CMakeFiles/final.dir/main.o"
+  "/home/shtrikh17/Data/CppApps/SimpleHTTPserver/myHTTP.c" "/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/CMakeFiles/final.dir/myHTTP.o"
+  "/home/shtrikh17/Data/CppApps/SimpleHTTPserver/server.c" "/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/CMakeFiles/final.dir/server.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

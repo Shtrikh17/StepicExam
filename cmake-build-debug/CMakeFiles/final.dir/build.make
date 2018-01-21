@@ -57,116 +57,116 @@ include CMakeFiles/final.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/final.dir/flags.make
 
-CMakeFiles/final.dir/main.c.o: CMakeFiles/final.dir/flags.make
-CMakeFiles/final.dir/main.c.o: ../main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/final.dir/main.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/final.dir/main.c.o   -c /home/shtrikh17/Data/CppApps/SimpleHTTPserver/main.c
+CMakeFiles/final.dir/main.o: CMakeFiles/final.dir/flags.make
+CMakeFiles/final.dir/main.o: ../main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/final.dir/main.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/final.dir/main.o   -c /home/shtrikh17/Data/CppApps/SimpleHTTPserver/main.c
 
-CMakeFiles/final.dir/main.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/final.dir/main.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/shtrikh17/Data/CppApps/SimpleHTTPserver/main.c > CMakeFiles/final.dir/main.c.i
+CMakeFiles/final.dir/main.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/final.dir/main.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/shtrikh17/Data/CppApps/SimpleHTTPserver/main.c > CMakeFiles/final.dir/main.i
 
-CMakeFiles/final.dir/main.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/final.dir/main.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/shtrikh17/Data/CppApps/SimpleHTTPserver/main.c -o CMakeFiles/final.dir/main.c.s
+CMakeFiles/final.dir/main.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/final.dir/main.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/shtrikh17/Data/CppApps/SimpleHTTPserver/main.c -o CMakeFiles/final.dir/main.s
 
-CMakeFiles/final.dir/main.c.o.requires:
+CMakeFiles/final.dir/main.o.requires:
 
-.PHONY : CMakeFiles/final.dir/main.c.o.requires
+.PHONY : CMakeFiles/final.dir/main.o.requires
 
-CMakeFiles/final.dir/main.c.o.provides: CMakeFiles/final.dir/main.c.o.requires
-	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/main.c.o.provides.build
-.PHONY : CMakeFiles/final.dir/main.c.o.provides
+CMakeFiles/final.dir/main.o.provides: CMakeFiles/final.dir/main.o.requires
+	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/main.o.provides.build
+.PHONY : CMakeFiles/final.dir/main.o.provides
 
-CMakeFiles/final.dir/main.c.o.provides.build: CMakeFiles/final.dir/main.c.o
-
-
-CMakeFiles/final.dir/myHTTP.c.o: CMakeFiles/final.dir/flags.make
-CMakeFiles/final.dir/myHTTP.c.o: ../myHTTP.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/final.dir/myHTTP.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/final.dir/myHTTP.c.o   -c /home/shtrikh17/Data/CppApps/SimpleHTTPserver/myHTTP.c
-
-CMakeFiles/final.dir/myHTTP.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/final.dir/myHTTP.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/shtrikh17/Data/CppApps/SimpleHTTPserver/myHTTP.c > CMakeFiles/final.dir/myHTTP.c.i
-
-CMakeFiles/final.dir/myHTTP.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/final.dir/myHTTP.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/shtrikh17/Data/CppApps/SimpleHTTPserver/myHTTP.c -o CMakeFiles/final.dir/myHTTP.c.s
-
-CMakeFiles/final.dir/myHTTP.c.o.requires:
-
-.PHONY : CMakeFiles/final.dir/myHTTP.c.o.requires
-
-CMakeFiles/final.dir/myHTTP.c.o.provides: CMakeFiles/final.dir/myHTTP.c.o.requires
-	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/myHTTP.c.o.provides.build
-.PHONY : CMakeFiles/final.dir/myHTTP.c.o.provides
-
-CMakeFiles/final.dir/myHTTP.c.o.provides.build: CMakeFiles/final.dir/myHTTP.c.o
+CMakeFiles/final.dir/main.o.provides.build: CMakeFiles/final.dir/main.o
 
 
-CMakeFiles/final.dir/commonOperations.c.o: CMakeFiles/final.dir/flags.make
-CMakeFiles/final.dir/commonOperations.c.o: ../commonOperations.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/final.dir/commonOperations.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/final.dir/commonOperations.c.o   -c /home/shtrikh17/Data/CppApps/SimpleHTTPserver/commonOperations.c
+CMakeFiles/final.dir/myHTTP.o: CMakeFiles/final.dir/flags.make
+CMakeFiles/final.dir/myHTTP.o: ../myHTTP.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/final.dir/myHTTP.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/final.dir/myHTTP.o   -c /home/shtrikh17/Data/CppApps/SimpleHTTPserver/myHTTP.c
 
-CMakeFiles/final.dir/commonOperations.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/final.dir/commonOperations.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/shtrikh17/Data/CppApps/SimpleHTTPserver/commonOperations.c > CMakeFiles/final.dir/commonOperations.c.i
+CMakeFiles/final.dir/myHTTP.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/final.dir/myHTTP.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/shtrikh17/Data/CppApps/SimpleHTTPserver/myHTTP.c > CMakeFiles/final.dir/myHTTP.i
 
-CMakeFiles/final.dir/commonOperations.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/final.dir/commonOperations.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/shtrikh17/Data/CppApps/SimpleHTTPserver/commonOperations.c -o CMakeFiles/final.dir/commonOperations.c.s
+CMakeFiles/final.dir/myHTTP.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/final.dir/myHTTP.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/shtrikh17/Data/CppApps/SimpleHTTPserver/myHTTP.c -o CMakeFiles/final.dir/myHTTP.s
 
-CMakeFiles/final.dir/commonOperations.c.o.requires:
+CMakeFiles/final.dir/myHTTP.o.requires:
 
-.PHONY : CMakeFiles/final.dir/commonOperations.c.o.requires
+.PHONY : CMakeFiles/final.dir/myHTTP.o.requires
 
-CMakeFiles/final.dir/commonOperations.c.o.provides: CMakeFiles/final.dir/commonOperations.c.o.requires
-	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/commonOperations.c.o.provides.build
-.PHONY : CMakeFiles/final.dir/commonOperations.c.o.provides
+CMakeFiles/final.dir/myHTTP.o.provides: CMakeFiles/final.dir/myHTTP.o.requires
+	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/myHTTP.o.provides.build
+.PHONY : CMakeFiles/final.dir/myHTTP.o.provides
 
-CMakeFiles/final.dir/commonOperations.c.o.provides.build: CMakeFiles/final.dir/commonOperations.c.o
+CMakeFiles/final.dir/myHTTP.o.provides.build: CMakeFiles/final.dir/myHTTP.o
 
 
-CMakeFiles/final.dir/server.c.o: CMakeFiles/final.dir/flags.make
-CMakeFiles/final.dir/server.c.o: ../server.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/final.dir/server.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/final.dir/server.c.o   -c /home/shtrikh17/Data/CppApps/SimpleHTTPserver/server.c
+CMakeFiles/final.dir/commonOperations.o: CMakeFiles/final.dir/flags.make
+CMakeFiles/final.dir/commonOperations.o: ../commonOperations.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/final.dir/commonOperations.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/final.dir/commonOperations.o   -c /home/shtrikh17/Data/CppApps/SimpleHTTPserver/commonOperations.c
 
-CMakeFiles/final.dir/server.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/final.dir/server.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/shtrikh17/Data/CppApps/SimpleHTTPserver/server.c > CMakeFiles/final.dir/server.c.i
+CMakeFiles/final.dir/commonOperations.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/final.dir/commonOperations.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/shtrikh17/Data/CppApps/SimpleHTTPserver/commonOperations.c > CMakeFiles/final.dir/commonOperations.i
 
-CMakeFiles/final.dir/server.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/final.dir/server.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/shtrikh17/Data/CppApps/SimpleHTTPserver/server.c -o CMakeFiles/final.dir/server.c.s
+CMakeFiles/final.dir/commonOperations.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/final.dir/commonOperations.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/shtrikh17/Data/CppApps/SimpleHTTPserver/commonOperations.c -o CMakeFiles/final.dir/commonOperations.s
 
-CMakeFiles/final.dir/server.c.o.requires:
+CMakeFiles/final.dir/commonOperations.o.requires:
 
-.PHONY : CMakeFiles/final.dir/server.c.o.requires
+.PHONY : CMakeFiles/final.dir/commonOperations.o.requires
 
-CMakeFiles/final.dir/server.c.o.provides: CMakeFiles/final.dir/server.c.o.requires
-	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/server.c.o.provides.build
-.PHONY : CMakeFiles/final.dir/server.c.o.provides
+CMakeFiles/final.dir/commonOperations.o.provides: CMakeFiles/final.dir/commonOperations.o.requires
+	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/commonOperations.o.provides.build
+.PHONY : CMakeFiles/final.dir/commonOperations.o.provides
 
-CMakeFiles/final.dir/server.c.o.provides.build: CMakeFiles/final.dir/server.c.o
+CMakeFiles/final.dir/commonOperations.o.provides.build: CMakeFiles/final.dir/commonOperations.o
+
+
+CMakeFiles/final.dir/server.o: CMakeFiles/final.dir/flags.make
+CMakeFiles/final.dir/server.o: ../server.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/final.dir/server.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/final.dir/server.o   -c /home/shtrikh17/Data/CppApps/SimpleHTTPserver/server.c
+
+CMakeFiles/final.dir/server.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/final.dir/server.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/shtrikh17/Data/CppApps/SimpleHTTPserver/server.c > CMakeFiles/final.dir/server.i
+
+CMakeFiles/final.dir/server.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/final.dir/server.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/shtrikh17/Data/CppApps/SimpleHTTPserver/server.c -o CMakeFiles/final.dir/server.s
+
+CMakeFiles/final.dir/server.o.requires:
+
+.PHONY : CMakeFiles/final.dir/server.o.requires
+
+CMakeFiles/final.dir/server.o.provides: CMakeFiles/final.dir/server.o.requires
+	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/server.o.provides.build
+.PHONY : CMakeFiles/final.dir/server.o.provides
+
+CMakeFiles/final.dir/server.o.provides.build: CMakeFiles/final.dir/server.o
 
 
 # Object files for target final
 final_OBJECTS = \
-"CMakeFiles/final.dir/main.c.o" \
-"CMakeFiles/final.dir/myHTTP.c.o" \
-"CMakeFiles/final.dir/commonOperations.c.o" \
-"CMakeFiles/final.dir/server.c.o"
+"CMakeFiles/final.dir/main.o" \
+"CMakeFiles/final.dir/myHTTP.o" \
+"CMakeFiles/final.dir/commonOperations.o" \
+"CMakeFiles/final.dir/server.o"
 
 # External object files for target final
 final_EXTERNAL_OBJECTS =
 
-final: CMakeFiles/final.dir/main.c.o
-final: CMakeFiles/final.dir/myHTTP.c.o
-final: CMakeFiles/final.dir/commonOperations.c.o
-final: CMakeFiles/final.dir/server.c.o
+final: CMakeFiles/final.dir/main.o
+final: CMakeFiles/final.dir/myHTTP.o
+final: CMakeFiles/final.dir/commonOperations.o
+final: CMakeFiles/final.dir/server.o
 final: CMakeFiles/final.dir/build.make
 final: CMakeFiles/final.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking C executable final"
@@ -177,10 +177,10 @@ CMakeFiles/final.dir/build: final
 
 .PHONY : CMakeFiles/final.dir/build
 
-CMakeFiles/final.dir/requires: CMakeFiles/final.dir/main.c.o.requires
-CMakeFiles/final.dir/requires: CMakeFiles/final.dir/myHTTP.c.o.requires
-CMakeFiles/final.dir/requires: CMakeFiles/final.dir/commonOperations.c.o.requires
-CMakeFiles/final.dir/requires: CMakeFiles/final.dir/server.c.o.requires
+CMakeFiles/final.dir/requires: CMakeFiles/final.dir/main.o.requires
+CMakeFiles/final.dir/requires: CMakeFiles/final.dir/myHTTP.o.requires
+CMakeFiles/final.dir/requires: CMakeFiles/final.dir/commonOperations.o.requires
+CMakeFiles/final.dir/requires: CMakeFiles/final.dir/server.o.requires
 
 .PHONY : CMakeFiles/final.dir/requires
 
