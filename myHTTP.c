@@ -100,13 +100,13 @@ int handle_HTTP_request(char* req, char** res, char* rootDir){
         sprintf(cur, "%s: %s\r\n", response->headers[j].key, response->headers[j].value);
         cur += strlen(cur);
     }
-    sprintf(cur, "\r\n");
-    cur += strlen(cur);
 
     // Вообще говоря, неверно - в файле могут находиться \0, так что копировать нужно все до конца файла побайтово
     if(response->body!=NULL){
+        sprintf(cur, "\r\n");
+        cur += strlen(cur);
         sprintf(cur, "%s", response->body);
         cur += strlen(cur);
     }
-    return 0;
+        return 0;
 }

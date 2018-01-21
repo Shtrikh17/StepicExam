@@ -111,125 +111,77 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named SimpleHTTPserver
+# Target rules for targets named final
 
 # Build rule for target.
-SimpleHTTPserver: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 SimpleHTTPserver
-.PHONY : SimpleHTTPserver
+final: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 final
+.PHONY : final
 
 # fast build rule for target.
-SimpleHTTPserver/fast:
-	$(MAKE) -f CMakeFiles/SimpleHTTPserver.dir/build.make CMakeFiles/SimpleHTTPserver.dir/build
-.PHONY : SimpleHTTPserver/fast
+final/fast:
+	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/build
+.PHONY : final/fast
 
-commonOperations.o: commonOperations.c.o
-
+# target to build an object file
+commonOperations.o:
+	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/commonOperations.o
 .PHONY : commonOperations.o
 
-# target to build an object file
-commonOperations.c.o:
-	$(MAKE) -f CMakeFiles/SimpleHTTPserver.dir/build.make CMakeFiles/SimpleHTTPserver.dir/commonOperations.c.o
-.PHONY : commonOperations.c.o
-
-commonOperations.i: commonOperations.c.i
-
+# target to preprocess a source file
+commonOperations.i:
+	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/commonOperations.i
 .PHONY : commonOperations.i
 
-# target to preprocess a source file
-commonOperations.c.i:
-	$(MAKE) -f CMakeFiles/SimpleHTTPserver.dir/build.make CMakeFiles/SimpleHTTPserver.dir/commonOperations.c.i
-.PHONY : commonOperations.c.i
-
-commonOperations.s: commonOperations.c.s
-
+# target to generate assembly for a file
+commonOperations.s:
+	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/commonOperations.s
 .PHONY : commonOperations.s
 
-# target to generate assembly for a file
-commonOperations.c.s:
-	$(MAKE) -f CMakeFiles/SimpleHTTPserver.dir/build.make CMakeFiles/SimpleHTTPserver.dir/commonOperations.c.s
-.PHONY : commonOperations.c.s
-
-main.o: main.c.o
-
+# target to build an object file
+main.o:
+	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/main.o
 .PHONY : main.o
 
-# target to build an object file
-main.c.o:
-	$(MAKE) -f CMakeFiles/SimpleHTTPserver.dir/build.make CMakeFiles/SimpleHTTPserver.dir/main.c.o
-.PHONY : main.c.o
-
-main.i: main.c.i
-
+# target to preprocess a source file
+main.i:
+	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/main.i
 .PHONY : main.i
 
-# target to preprocess a source file
-main.c.i:
-	$(MAKE) -f CMakeFiles/SimpleHTTPserver.dir/build.make CMakeFiles/SimpleHTTPserver.dir/main.c.i
-.PHONY : main.c.i
-
-main.s: main.c.s
-
+# target to generate assembly for a file
+main.s:
+	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/main.s
 .PHONY : main.s
 
-# target to generate assembly for a file
-main.c.s:
-	$(MAKE) -f CMakeFiles/SimpleHTTPserver.dir/build.make CMakeFiles/SimpleHTTPserver.dir/main.c.s
-.PHONY : main.c.s
-
-myHTTP.o: myHTTP.c.o
-
+# target to build an object file
+myHTTP.o:
+	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/myHTTP.o
 .PHONY : myHTTP.o
 
-# target to build an object file
-myHTTP.c.o:
-	$(MAKE) -f CMakeFiles/SimpleHTTPserver.dir/build.make CMakeFiles/SimpleHTTPserver.dir/myHTTP.c.o
-.PHONY : myHTTP.c.o
-
-myHTTP.i: myHTTP.c.i
-
+# target to preprocess a source file
+myHTTP.i:
+	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/myHTTP.i
 .PHONY : myHTTP.i
 
-# target to preprocess a source file
-myHTTP.c.i:
-	$(MAKE) -f CMakeFiles/SimpleHTTPserver.dir/build.make CMakeFiles/SimpleHTTPserver.dir/myHTTP.c.i
-.PHONY : myHTTP.c.i
-
-myHTTP.s: myHTTP.c.s
-
+# target to generate assembly for a file
+myHTTP.s:
+	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/myHTTP.s
 .PHONY : myHTTP.s
 
-# target to generate assembly for a file
-myHTTP.c.s:
-	$(MAKE) -f CMakeFiles/SimpleHTTPserver.dir/build.make CMakeFiles/SimpleHTTPserver.dir/myHTTP.c.s
-.PHONY : myHTTP.c.s
-
-server.o: server.c.o
-
+# target to build an object file
+server.o:
+	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/server.o
 .PHONY : server.o
 
-# target to build an object file
-server.c.o:
-	$(MAKE) -f CMakeFiles/SimpleHTTPserver.dir/build.make CMakeFiles/SimpleHTTPserver.dir/server.c.o
-.PHONY : server.c.o
-
-server.i: server.c.i
-
+# target to preprocess a source file
+server.i:
+	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/server.i
 .PHONY : server.i
 
-# target to preprocess a source file
-server.c.i:
-	$(MAKE) -f CMakeFiles/SimpleHTTPserver.dir/build.make CMakeFiles/SimpleHTTPserver.dir/server.c.i
-.PHONY : server.c.i
-
-server.s: server.c.s
-
-.PHONY : server.s
-
 # target to generate assembly for a file
-server.c.s:
-	$(MAKE) -f CMakeFiles/SimpleHTTPserver.dir/build.make CMakeFiles/SimpleHTTPserver.dir/server.c.s
-.PHONY : server.c.s
+server.s:
+	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/server.s
+.PHONY : server.s
 
 # Help Target
 help:
@@ -239,7 +191,7 @@ help:
 	@echo "... depend"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
-	@echo "... SimpleHTTPserver"
+	@echo "... final"
 	@echo "... commonOperations.o"
 	@echo "... commonOperations.i"
 	@echo "... commonOperations.s"

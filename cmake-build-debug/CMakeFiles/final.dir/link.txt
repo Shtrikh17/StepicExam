@@ -1,0 +1,1 @@
+/usr/bin/cc -std=c99 -g  -rdynamic CMakeFiles/final.dir/main.o CMakeFiles/final.dir/myHTTP.o CMakeFiles/final.dir/commonOperations.o CMakeFiles/final.dir/server.o  -o final -levent -lpthread 

@@ -60,39 +60,39 @@ CMAKE_SOURCE_DIR = /home/shtrikh17/Data/CppApps/SimpleHTTPserver
 CMAKE_BINARY_DIR = /home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug
 
 #=============================================================================
-# Target rules for target CMakeFiles/SimpleHTTPserver.dir
+# Target rules for target CMakeFiles/final.dir
 
 # All Build rule for target.
-CMakeFiles/SimpleHTTPserver.dir/all:
-	$(MAKE) -f CMakeFiles/SimpleHTTPserver.dir/build.make CMakeFiles/SimpleHTTPserver.dir/depend
-	$(MAKE) -f CMakeFiles/SimpleHTTPserver.dir/build.make CMakeFiles/SimpleHTTPserver.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5 "Built target SimpleHTTPserver"
-.PHONY : CMakeFiles/SimpleHTTPserver.dir/all
+CMakeFiles/final.dir/all:
+	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/depend
+	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5 "Built target final"
+.PHONY : CMakeFiles/final.dir/all
 
 # Include target in all.
-all: CMakeFiles/SimpleHTTPserver.dir/all
+all: CMakeFiles/final.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/SimpleHTTPserver.dir/rule: cmake_check_build_system
+CMakeFiles/final.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/CMakeFiles 5
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/SimpleHTTPserver.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/final.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/SimpleHTTPserver.dir/rule
+.PHONY : CMakeFiles/final.dir/rule
 
 # Convenience name for target.
-SimpleHTTPserver: CMakeFiles/SimpleHTTPserver.dir/rule
+final: CMakeFiles/final.dir/rule
 
-.PHONY : SimpleHTTPserver
-
-# clean rule for target.
-CMakeFiles/SimpleHTTPserver.dir/clean:
-	$(MAKE) -f CMakeFiles/SimpleHTTPserver.dir/build.make CMakeFiles/SimpleHTTPserver.dir/clean
-.PHONY : CMakeFiles/SimpleHTTPserver.dir/clean
+.PHONY : final
 
 # clean rule for target.
-clean: CMakeFiles/SimpleHTTPserver.dir/clean
+CMakeFiles/final.dir/clean:
+	$(MAKE) -f CMakeFiles/final.dir/build.make CMakeFiles/final.dir/clean
+.PHONY : CMakeFiles/final.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/final.dir/clean
 
 .PHONY : clean
 
