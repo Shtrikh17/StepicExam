@@ -72,7 +72,7 @@ int main(int argc, char** argv){
     snprintf(log, 1024, "ip: %s\nport: %d\ndir: %s\n", params.ip, params.port, params.dir);
     printLog(log);
 
-    //daemonize();
+    daemonize();
 
     server(&params);
 
