@@ -28,6 +28,7 @@ void handler_cb(evutil_socket_t fd, short ev_flag, void* arg){
         char* response;
         handle_HTTP_request(request, &response, hArg->dir);
         int l = strlen(response);
+        printLog(response);
         send(fd, response, l+1, MSG_NOSIGNAL);
         /*free(response);
         event_del(hArg->ev);
