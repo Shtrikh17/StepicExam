@@ -19,7 +19,7 @@ HTTP_request* parseRequest(char* request){
     char** reqType = split_c_string(headers[0], " ", &N);
     http_request->method = reqType[0];
     http_request->protocol = reqType[2];
-    http_request->path = split_c_string(reqType[1], "&", &N)[0];
+    http_request->path = split_c_string(reqType[1], "?", &N)[0];
 
     http_request->nHeaders = nHeadres-1;
     http_request->headers = (HTTP_header*) malloc ((nHeadres-1)*sizeof(HTTP_header));
