@@ -16,10 +16,16 @@ void handler_cb(evutil_socket_t fd, short ev_flag, void* arg){
     char request[1024];
     int RecvSize = recv(fd, request, 1024, MSG_NOSIGNAL);
     if(RecvSize==0 && errno!=EAGAIN){
+
+        struct event_base* base = event_get_base(hArg->ev);
+
         event_del(hArg->ev);
         shutdown(fd, SHUT_RDWR);
         close(fd);
+        event_free(hArg->ev);
         free(hArg);
+        event_base_loopbreak(base);
+        event_base_free(base);
     }
     else if(RecvSize!=0){
 
