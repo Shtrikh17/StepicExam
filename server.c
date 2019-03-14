@@ -6,26 +6,28 @@
 #include "myHTTP.h"
 
 void handler_cb(evutil_socket_t fd, short ev_flag, void* arg){
-
+    /*
+     * IMPORTANT: Persistent HTTP connections are not supported yet. Connection closed after successful response.
+     */
     struct handlerCallbackArg* hArg = (struct handlerCallbackArg*)arg;
 
     char log[255];
     snprintf(log, 255, "Incoming request from [%s:%d]", hArg->ip, hArg->port);
     printLog(log);
 
-    char request[1024];
+    char* request = (char*) malloc(1024*sizeof(char));              // The server is simple :) Thus only up to 1024 bytes
     int RecvSize = recv(fd, request, 1024, MSG_NOSIGNAL);
     if(RecvSize==0 && errno!=EAGAIN){
 
         struct event_base* base = event_get_base(hArg->ev);
 
-        event_del(hArg->ev);
-        shutdown(fd, SHUT_RDWR);
-        close(fd);
-        event_free(hArg->ev);
-        free(hArg);
+        //event_free(hArg->ev);
+        //shutdown(fd, SHUT_RDWR);
+        //close(fd);
+        //free(hArg);
+        free(request);
         event_base_loopbreak(base);
-        event_base_free(base);
+        //event_base_free(base);
     }
     else if(RecvSize!=0){
 
@@ -38,12 +40,19 @@ void handler_cb(evutil_socket_t fd, short ev_flag, void* arg){
 
         printLog("RESPONSE:");
         printLog(response);
+        //printf(response);
+        //printf("%d", l);
         send(fd, response, l, MSG_NOSIGNAL);
-        /*free(response);
-        event_del(hArg->ev);
-        shutdown(fd, SHUT_RDWR);
-        close(fd);
-        free(hArg);*/
+        free(request);
+        free(response);
+        //free(hArg->ip);
+        //event_free(hArg->ev);
+        //shutdown(fd, SHUT_RDWR);
+        //close(fd);
+        //free(hArg);
+
+        //struct event_base* base = event_get_base(hArg->ev);
+        //event_base_loopbreak(base);
     }
 }
 
@@ -69,6 +78,17 @@ void* connection_handler(void* arg){
 
     event_add(ev, NULL);
     event_base_dispatch(base);
+    event_del(hArg->ev);
+    event_free(hArg->ev);
+    free(hArg->ip);
+    shutdown(hInfo->fd, SHUT_RDWR);
+    close(hInfo->fd);
+
+    event_base_free(base);
+    free(arg);
+    free(hArg);
+
+    //pthread_exit(0);
 }
 
 static void accept_conn_cb(struct evconnlistener* listener,
@@ -180,6 +200,7 @@ int server(struct parameters* params){
 
     // Запустим цикл обработки событий
     event_base_dispatch(base);
+    event_base_free(base);
 
     printLog("Server exit\n");
     return 0;

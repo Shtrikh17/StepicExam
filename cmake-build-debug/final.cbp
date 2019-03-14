@@ -8,37 +8,27 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug"/>
+				<Option working_dir="/home/shtrikh17/Chukcha/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/shtrikh17/Chukcha/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/shtrikh17/Chukcha/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/shtrikh17/Chukcha/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/shtrikh17/Chukcha/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug"/>
+				<Option working_dir="/home/shtrikh17/Chukcha/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="edit_cache">
-				<Option working_dir="/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/shtrikh17/Chukcha/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/shtrikh17/Chukcha/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/shtrikh17/Chukcha/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/shtrikh17/Chukcha/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="final">
-				<Option output="/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/final" prefix_auto="0" extension_auto="0"/>
+				<Option output="/home/shtrikh17/Chukcha/cmake-build-debug/final" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir=""/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -51,14 +41,14 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 final"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/shtrikh17/Chukcha/cmake-build-debug/Makefile&quot;  VERBOSE=1 final"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/shtrikh17/Chukcha/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/shtrikh17/Chukcha/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/shtrikh17/Chukcha/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="final/fast">
-				<Option output="/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/final" prefix_auto="0" extension_auto="0"/>
+				<Option output="/home/shtrikh17/Chukcha/cmake-build-debug/final" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir=""/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -71,35 +61,45 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 final/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/shtrikh17/Chukcha/cmake-build-debug/Makefile&quot;  VERBOSE=1 final/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/shtrikh17/Chukcha/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/shtrikh17/Chukcha/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/shtrikh17/Chukcha/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/shtrikh17/Chukcha/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/shtrikh17/Chukcha/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/shtrikh17/Chukcha/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/shtrikh17/Chukcha/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/shtrikh17/Chukcha/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/shtrikh17/Data/CppApps/SimpleHTTPserver/commonOperations.c">
+		<Unit filename="/home/shtrikh17/Chukcha/commonOperations.c">
 			<Option target="final"/>
 		</Unit>
-		<Unit filename="/home/shtrikh17/Data/CppApps/SimpleHTTPserver/commonOperations.h">
+		<Unit filename="/home/shtrikh17/Chukcha/commonOperations.h">
 			<Option target="final"/>
 		</Unit>
-		<Unit filename="/home/shtrikh17/Data/CppApps/SimpleHTTPserver/main.c">
+		<Unit filename="/home/shtrikh17/Chukcha/main.c">
 			<Option target="final"/>
 		</Unit>
-		<Unit filename="/home/shtrikh17/Data/CppApps/SimpleHTTPserver/myHTTP.c">
+		<Unit filename="/home/shtrikh17/Chukcha/myHTTP.c">
 			<Option target="final"/>
 		</Unit>
-		<Unit filename="/home/shtrikh17/Data/CppApps/SimpleHTTPserver/myHTTP.h">
+		<Unit filename="/home/shtrikh17/Chukcha/myHTTP.h">
 			<Option target="final"/>
 		</Unit>
-		<Unit filename="/home/shtrikh17/Data/CppApps/SimpleHTTPserver/server.c">
+		<Unit filename="/home/shtrikh17/Chukcha/server.c">
 			<Option target="final"/>
 		</Unit>
-		<Unit filename="/home/shtrikh17/Data/CppApps/SimpleHTTPserver/server.h">
+		<Unit filename="/home/shtrikh17/Chukcha/server.h">
 			<Option target="final"/>
 		</Unit>
-		<Unit filename="/home/shtrikh17/Data/CppApps/SimpleHTTPserver/CMakeLists.txt">
+		<Unit filename="/home/shtrikh17/Chukcha/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

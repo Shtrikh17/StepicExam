@@ -1,0 +1,3 @@
+/home/shtrikh17/StepicExam/CMakeFiles/rebuild_cache.dir
+/home/shtrikh17/StepicExam/CMakeFiles/final.dir
+/home/shtrikh17/StepicExam/CMakeFiles/edit_cache.dir

@@ -7,6 +7,7 @@
 
 #include <stdlib.h>
 #include <unistd.h>
+#include <sys/stat.h>
 #include "commonOperations.h"
 
 typedef struct{
@@ -21,6 +22,7 @@ typedef struct{
     int nHeaders;
     HTTP_header* headers;
     char* body;
+    char* fullPath;
 } HTTP_request;
 
 typedef struct{
@@ -32,6 +34,10 @@ typedef struct{
     char* body;
 } HTTP_response;
 
+typedef struct{
+    char* contents;
+    struct RESULT* next;
+} RESULT;
 
 HTTP_request* parseRequest(char* request);
 int handle_HTTP_request(char* req, char** response, char* rootDir);

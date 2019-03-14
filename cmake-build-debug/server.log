@@ -1206,3 +1206,4832 @@ port: 60077
 --------
 Incoming request from [127.0.0.1:60077]
 Incoming request from [127.0.0.1:60077]
+                                                                                                                                              ==================================
+Successful parsing
+ip: 192.168.192.130
+port: 1235
+dir: /home/shtrikh17/Chukcha/files
+
+Starting event_base
+
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 7823
+--------
+Incoming request from [192.168.192.130:7823]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:7823]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 8335
+--------
+Incoming request from [192.168.192.130:8335]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+           <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> à
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:8335]
+==================================
+Successful parsing
+ip: 192.168.192.130
+port: 1235
+dir: /home/shtrikh17/Chukcha/files
+
+Starting event_base
+
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 8847
+--------
+Incoming request from [192.168.192.130:8847]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:8847]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 9359
+--------
+Incoming request from [192.168.192.130:9359]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:9359]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 9871
+--------
+Incoming request from [192.168.192.130:9871]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:9871]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 10383
+--------
+Incoming request from [192.168.192.130:10383]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:10383]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 10895
+--------
+Incoming request from [192.168.192.130:10895]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:10895]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 11407
+--------
+Incoming request from [192.168.192.130:11407]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:11407]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 11919
+--------
+Incoming request from [192.168.192.130:11919]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:11919]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 12431
+--------
+Incoming request from [192.168.192.130:12431]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:12431]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 12943
+--------
+Incoming request from [192.168.192.130:12943]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:12943]
+==================================
+Successful parsing
+ip: 192.168.192.130
+port: 1235
+dir: /home/shtrikh17/Chukcha/files
+
+Starting event_base
+
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 13455
+--------
+Incoming request from [192.168.192.130:13455]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:13455]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 13967
+--------
+Incoming request from [192.168.192.130:13967]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:13967]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 14479
+--------
+Incoming request from [192.168.192.130:14479]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:14479]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 14991
+--------
+Incoming request from [192.168.192.130:14991]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:14991]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 15503
+--------
+Incoming request from [192.168.192.130:15503]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:15503]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 16015
+--------
+Incoming request from [192.168.192.130:16015]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:16015]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 16527
+--------
+Incoming request from [192.168.192.130:16527]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:16527]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 17039
+--------
+Incoming request from [192.168.192.130:17039]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:17039]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 17551
+--------
+Incoming request from [192.168.192.130:17551]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:17551]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 18063
+--------
+Incoming request from [192.168.192.130:18063]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:18063]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 18575
+--------
+Incoming request from [192.168.192.130:18575]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:18575]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 19087
+--------
+Incoming request from [192.168.192.130:19087]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:19087]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 19599
+--------
+Incoming request from [192.168.192.130:19599]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:19599]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 20111
+--------
+Incoming request from [192.168.192.130:20111]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:20111]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 20623
+--------
+Incoming request from [192.168.192.130:20623]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:20623]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 21135
+--------
+Incoming request from [192.168.192.130:21135]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:21135]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 21647
+--------
+Incoming request from [192.168.192.130:21647]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:21647]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 22159
+--------
+Incoming request from [192.168.192.130:22159]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:22159]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 22671
+--------
+Incoming request from [192.168.192.130:22671]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:22671]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 23183
+--------
+Incoming request from [192.168.192.130:23183]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:23183]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 23695
+--------
+Incoming request from [192.168.192.130:23695]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:23695]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 24207
+--------
+Incoming request from [192.168.192.130:24207]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:24207]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 24719
+--------
+Incoming request from [192.168.192.130:24719]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:24719]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 25231
+--------
+Incoming request from [192.168.192.130:25231]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:25231]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 25743
+--------
+Incoming request from [192.168.192.130:25743]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:25743]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 26255
+--------
+Incoming request from [192.168.192.130:26255]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:26255]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 26767
+--------
+Incoming request from [192.168.192.130:26767]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:26767]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 27279
+--------
+Incoming request from [192.168.192.130:27279]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:27279]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 27791
+--------
+Incoming request from [192.168.192.130:27791]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:27791]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 28303
+--------
+Incoming request from [192.168.192.130:28303]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:28303]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 28815
+--------
+Incoming request from [192.168.192.130:28815]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:28815]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 29327
+--------
+Incoming request from [192.168.192.130:29327]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:29327]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 29839
+--------
+Incoming request from [192.168.192.130:29839]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:29839]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 30351
+--------
+Incoming request from [192.168.192.130:30351]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:30351]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 30863
+--------
+Incoming request from [192.168.192.130:30863]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:30863]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 31375
+--------
+Incoming request from [192.168.192.130:31375]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:31375]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 31887
+--------
+Incoming request from [192.168.192.130:31887]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:31887]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 32399
+--------
+Incoming request from [192.168.192.130:32399]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:32399]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 32911
+--------
+Incoming request from [192.168.192.130:32911]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:32911]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 33423
+--------
+Incoming request from [192.168.192.130:33423]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:33423]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 33935
+--------
+Incoming request from [192.168.192.130:33935]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:33935]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 34447
+--------
+Incoming request from [192.168.192.130:34447]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:34447]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 34959
+--------
+Incoming request from [192.168.192.130:34959]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:34959]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 35471
+--------
+Incoming request from [192.168.192.130:35471]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:35471]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 35983
+--------
+Incoming request from [192.168.192.130:35983]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:35983]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 36495
+--------
+Incoming request from [192.168.192.130:36495]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:36495]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 37007
+--------
+Incoming request from [192.168.192.130:37007]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:37007]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 37519
+--------
+Incoming request from [192.168.192.130:37519]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:37519]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 38031
+--------
+Incoming request from [192.168.192.130:38031]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:38031]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 38543
+--------
+Incoming request from [192.168.192.130:38543]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:38543]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 39055
+--------
+Incoming request from [192.168.192.130:39055]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:39055]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 39567
+--------
+Incoming request from [192.168.192.130:39567]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:39567]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 40079
+--------
+Incoming request from [192.168.192.130:40079]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:40079]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 40591
+--------
+Incoming request from [192.168.192.130:40591]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:40591]
+==================================
+Successful parsing
+ip: 192.168.192.130
+port: 1235
+dir: /home/shtrikh17/Chukcha/files
+
+Starting event_base
+
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 41103
+--------
+Incoming request from [192.168.192.130:41103]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:41103]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 41615
+--------
+Incoming request from [192.168.192.130:41615]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:41615]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 42127
+--------
+Incoming request from [192.168.192.130:42127]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:42127]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 42639
+--------
+Incoming request from [192.168.192.130:42639]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:42639]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 43151
+--------
+Incoming request from [192.168.192.130:43151]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:43151]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 43663
+--------
+Incoming request from [192.168.192.130:43663]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:43663]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 44175
+--------
+Incoming request from [192.168.192.130:44175]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:44175]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 44687
+--------
+Incoming request from [192.168.192.130:44687]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:44687]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 45199
+--------
+Incoming request from [192.168.192.130:45199]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:45199]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 45711
+--------
+Incoming request from [192.168.192.130:45711]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:45711]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 46223
+--------
+Incoming request from [192.168.192.130:46223]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:46223]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 46735
+--------
+Incoming request from [192.168.192.130:46735]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:46735]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 47247
+--------
+Incoming request from [192.168.192.130:47247]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:47247]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 47759
+--------
+Incoming request from [192.168.192.130:47759]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:47759]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 48271
+--------
+Incoming request from [192.168.192.130:48271]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:48271]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 48783
+--------
+Incoming request from [192.168.192.130:48783]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:48783]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 49295
+--------
+Incoming request from [192.168.192.130:49295]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:49295]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 49807
+--------
+Incoming request from [192.168.192.130:49807]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:49807]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 50319
+--------
+Incoming request from [192.168.192.130:50319]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:50319]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 50831
+--------
+Incoming request from [192.168.192.130:50831]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:50831]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 51343
+--------
+Incoming request from [192.168.192.130:51343]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:51343]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 51855
+--------
+Incoming request from [192.168.192.130:51855]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:51855]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 52367
+--------
+Incoming request from [192.168.192.130:52367]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:52367]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 52879
+--------
+Incoming request from [192.168.192.130:52879]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:52879]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 53391
+--------
+Incoming request from [192.168.192.130:53391]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:53391]
+==================================
+Successful parsing
+ip: 192.168.192.130
+port: 1235
+dir: /home/shtrikh17/Chukcha/files
+
+Starting event_base
+
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 53903
+--------
+Incoming request from [192.168.192.130:53903]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:53903]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 54415
+--------
+Incoming request from [192.168.192.130:54415]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:54415]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 54927
+--------
+Incoming request from [192.168.192.130:54927]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:54927]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 55439
+--------
+Incoming request from [192.168.192.130:55439]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:55439]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 55951
+--------
+Incoming request from [192.168.192.130:55951]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:55951]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 56463
+--------
+Incoming request from [192.168.192.130:56463]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:56463]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 56975
+--------
+Incoming request from [192.168.192.130:56975]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:56975]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 57487
+--------
+Incoming request from [192.168.192.130:57487]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:57487]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 57999
+--------
+Incoming request from [192.168.192.130:57999]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:57999]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 58511
+--------
+Incoming request from [192.168.192.130:58511]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:58511]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 59023
+--------
+Incoming request from [192.168.192.130:59023]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:59023]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 59535
+--------
+Incoming request from [192.168.192.130:59535]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:59535]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 60047
+--------
+Incoming request from [192.168.192.130:60047]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:60047]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 60559
+--------
+Incoming request from [192.168.192.130:60559]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:60559]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 61071
+--------
+Incoming request from [192.168.192.130:61071]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:61071]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 61583
+--------
+Incoming request from [192.168.192.130:61583]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:61583]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 62095
+--------
+Incoming request from [192.168.192.130:62095]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:62095]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 62607
+--------
+Incoming request from [192.168.192.130:62607]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:62607]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 63119
+--------
+Incoming request from [192.168.192.130:63119]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:63119]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 63631
+--------
+Incoming request from [192.168.192.130:63631]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:63631]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 64143
+--------
+Incoming request from [192.168.192.130:64143]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:64143]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 64655
+--------
+Incoming request from [192.168.192.130:64655]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:64655]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 65167
+--------
+Incoming request from [192.168.192.130:65167]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:65167]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 144
+--------
+Incoming request from [192.168.192.130:144]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:144]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 656
+--------
+Incoming request from [192.168.192.130:656]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:656]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 1168
+--------
+Incoming request from [192.168.192.130:1168]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:1168]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 1680
+--------
+Incoming request from [192.168.192.130:1680]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:1680]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 2192
+--------
+Incoming request from [192.168.192.130:2192]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:2192]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 2704
+--------
+Incoming request from [192.168.192.130:2704]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:2704]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 3216
+--------
+Incoming request from [192.168.192.130:3216]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:3216]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 3728
+--------
+Incoming request from [192.168.192.130:3728]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:3728]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 4240
+--------
+Incoming request from [192.168.192.130:4240]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:4240]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 4752
+--------
+Incoming request from [192.168.192.130:4752]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:4752]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 5264
+--------
+Incoming request from [192.168.192.130:5264]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:5264]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 5776
+--------
+Incoming request from [192.168.192.130:5776]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:5776]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 6288
+--------
+Incoming request from [192.168.192.130:6288]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:6288]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 6800
+--------
+Incoming request from [192.168.192.130:6800]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:6800]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 7312
+--------
+Incoming request from [192.168.192.130:7312]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:7312]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 7824
+--------
+Incoming request from [192.168.192.130:7824]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:7824]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 8336
+--------
+Incoming request from [192.168.192.130:8336]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:8336]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 8848
+--------
+Incoming request from [192.168.192.130:8848]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:8848]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 9360
+--------
+Incoming request from [192.168.192.130:9360]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:9360]
+--------
+Accepting incoming connection from:
+ip: 192.168.192.130
+port: 9872
+--------
+Incoming request from [192.168.192.130:9872]
+REQUEST:
+GET / HTTP/1.1
+Host: 192.168.192.130:1235
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+RESPONSE:
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 218
+
+<html>
+        <head>
+                <title>
+                        Chukcha Server
+                </title>
+        </head>
+        <body>
+                <h1>Chukcha HTTP Server v 0.1</h1>
+        </body>
+</html> 
+
+
+Incoming request from [192.168.192.130:9872]

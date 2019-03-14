@@ -1,8 +1,8 @@
-/media/shtrikh17/Programs/clion-2017.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/shtrikh17/Data/CppApps/SimpleHTTPserver
+/home/shtrikh17/clion-2018.3.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/shtrikh17/Chukcha
 CMake Warning (dev) at CMakeLists.txt:1 (cmake_minimum_required):
   Compatibility with CMake < 2.4 is not supported by CMake >= 3.0.
 This warning is for project developers.  Use -Wno-dev to suppress it.
 
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/shtrikh17/Data/CppApps/SimpleHTTPserver/cmake-build-debug
+-- Build files have been written to: /home/shtrikh17/Chukcha/cmake-build-debug
